@@ -14,7 +14,7 @@
 ## URLs
 - **Development**: https://3000-ikpgem3ofn50t4b4yi9s5-6532622b.e2b.dev
 - **Production**: (デプロイ後に更新)
-- **GitHub**: (リポジトリ作成後に更新)
+- **GitHub**: https://github.com/sekiguchimakoto20031003-cmd/Fish-ranking-app
 
 ## Currently Completed Features ✅
 1. **データベース設計と実装**
